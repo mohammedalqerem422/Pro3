@@ -1,4 +1,4 @@
-body::before{
+main::before{
     display: block;
     content: '';
     height: 60px;
